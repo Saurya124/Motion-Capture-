@@ -1,1 +1,1 @@
-# Motion-Capture-using-Computer-Vision
+# Motion Capture using Computer Vision
